@@ -1,6 +1,17 @@
-#include <stdio.h>
+#include <stdio.h> 
  
-int main() {
-    printf("Hello, World!");
-    return 0;
+int multiply(int a,int b) 
+{ 
+    return a * b; 
+} 
+ 
+int divide(int a,int b)
+{
+    return a / b;
+}
+  
+int main() { 
+    printf("Yoyo,Little Ross!"); 
+    test() 
+    return 0; 
 }
